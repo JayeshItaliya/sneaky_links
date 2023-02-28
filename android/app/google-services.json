@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "442038173243",
+    "project_id": "sneaky-links-us",
+    "storage_bucket": "sneaky-links-us.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442038173243:android:0bffe6dec659a93933661e",
+        "android_client_info": {
+          "package_name": "com.sneakylinksus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442038173243-fbndobot2056eih1h3v308nf5jps5u1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sneakylinksus",
+            "certificate_hash": "bdd90412814241fc526a68beca76675ff68a036a"
+          }
+        },
+        {
+          "client_id": "442038173243-3soiovpc3bcbptmobh4k50gdmcod7clq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTulfRptEKzXYR54ScAwDGzmJEvToW3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442038173243-3soiovpc3bcbptmobh4k50gdmcod7clq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442038173243-jimjmr2i2dqp9rh8lhr67vvpcvv8u5p4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sneakylinksus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.sneakylinksus</string>
+	</array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>birds</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>birds</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>book</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>book</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>doctor</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>doctor</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>lion</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>lion</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>logo</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>logo</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>logo</string>
+			</array>
+			<key>UIPrerenderedIcon</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Sneaky Links</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Play using while you are hiking.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This app not requires access Bluetooth</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>This app not requires access Bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This app requires access to use your calendar..</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app requires access to send images on message.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This app requires contacts access to connect your friends.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app needs access to show nearby user list and nearby party list</string>
+	<key>NSLocationUsageDescription</key>
+	<string>This app needs access to nearby user listing and user party listing.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs access to show nearby user list and nearby party list</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app needs access to microphone for calling</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app needs to be able to access your motion use</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access to the photo library for the set profile image</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>This app requires access to send audio message.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>com.apple.security.network.client</key>
+	<true/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+</dict>
+</plist>
